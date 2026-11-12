@@ -1,0 +1,13 @@
+
+temp_print*
+~$*
+
+# Gerados pelo programa
+impressoes/
+erro.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
