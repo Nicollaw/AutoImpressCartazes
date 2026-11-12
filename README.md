@@ -96,7 +96,6 @@ Qualquer erro ao iniciar aparece num pop-up e é gravado no arquivo `erro.log`, 
 AutoImpress/
 ├── main.py              # o aplicativo inteiro (interface + lógica)
 ├── requirements.txt     # dependências
-├── exemplo/             # modelos genéricos e planilha fictícia para teste
 └── impressoes/          # PDFs gerados (criada automaticamente, não vai para o Git)
 ```
 
