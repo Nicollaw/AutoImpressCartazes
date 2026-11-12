@@ -106,3 +106,9 @@ Python · tkinter · pandas · openpyxl · docxtpl · docx2pdf
 ## Observação
 
 Os modelos e a planilha deste repositório são **exemplos genéricos**, com dados fictícios. Os arquivos reais de uso (marca, preços, ofertas) ficam fora do repositório.
+
+
+
+
+<img width="1026" height="583" alt="image" src="https://github.com/user-attachments/assets/7cae373f-3fa3-4e09-925c-36d7f6e1543d" />
+
