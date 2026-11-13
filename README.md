@@ -19,6 +19,9 @@ dados.xlsx ──► filtra produtos ──► decide o tipo ──► preenche 
 3. **Mostra tudo numa tabela** para você conferir. O modelo de cada produto pode ser trocado, ou o produto pode ser marcado como "Pular".
 4. **Preenche o modelo Word** (biblioteca `docxtpl`), **converte para PDF** (`docx2pdf`) e **manda imprimir**.
 
+<img width="1026" height="583" alt="image" src="https://github.com/user-attachments/assets/7cae373f-3fa3-4e09-925c-36d7f6e1543d" />
+
+
 ## Requisitos
 
 - Windows (ou macOS) com **Microsoft Word instalado**: o `docx2pdf` usa o Word para converter.
@@ -100,5 +103,5 @@ Os modelos e a planilha deste repositório são **exemplos genéricos**, com dad
 
 
 
-<img width="1026" height="583" alt="image" src="https://github.com/user-attachments/assets/7cae373f-3fa3-4e09-925c-36d7f6e1543d" />
+
 
