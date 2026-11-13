@@ -28,16 +28,6 @@ dados.xlsx ──► filtra produtos ──► decide o tipo ──► preenche 
 pip install -r requirements.txt
 ```
 
-## Testando com os arquivos de exemplo
-
-A pasta `exemplo/` tem modelos genéricos e uma planilha com dados fictícios. Copie os três arquivos para a mesma pasta do `main.py` e rode:
-
-```bash
-# Windows (PowerShell), dentro da pasta do projeto
-copy exemplo\* .
-py main.py
-```
-
 Com os dados de exemplo, o programa lista 10 produtos (7 promo e 3 cheio). Antes de clicar em **Gerar e Imprimir**, marque como "Pular" os produtos que não quer imprimir, para não mandar tudo para a impressora durante o teste. Os PDFs ficam na pasta `impressoes/`.
 
 ## Usando com seus próprios arquivos
